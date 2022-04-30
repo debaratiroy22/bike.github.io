@@ -1,0 +1,19 @@
+body
+{
+  background-color: #5F9D9D;
+
+}
+body
+{
+  text-align: center;
+  text-shadow: 0 0 20px #333535;
+}
+h1
+{
+  background-color: #BECACA;
+  margin-left: 350px;
+  padding-left: 100px;
+  margin-right:350px;
+  padding-right: 100px;
+  font-family: 'Rubik Bubbles', cursive;
+}

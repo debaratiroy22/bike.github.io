@@ -1,0 +1,30 @@
+body
+{
+  background-color: #5F7464;
+}
+img
+{
+  margin-left:30px;
+  margin-right:50px;
+}
+h1
+{
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #B20600;
+  font-family: 'Rubik Bubbles', cursive;
+  text-shadow: 0 0 20px  #B20600;
+  background-color: #E4E9BE;
+  margin-left: 350px;
+  margin-right: 350px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+h2
+{
+  text-decoration: underline;
+  text-decoration-color: #B20600;
+  color: #F8B400;
+  margin: 3em auto;
+  font-size: 30px;
+}
